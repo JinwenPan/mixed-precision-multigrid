@@ -1,1 +1,3 @@
-# mixed-precision-multigrid
+# A Survey of Mixed Precision Multigrid Methods
+
+This repository is for storing my report and presentation slides for the seminar course Modern Trends in High Performance Computing at the University of Munich, where I did a literature research regarding mixed precision multigrid methods. Apart from that, some experiments about matrix multiplication were also conducted as a requirement of the course. 
