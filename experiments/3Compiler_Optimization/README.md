@@ -1,0 +1,1 @@
+If you have VTune, you can uncomment line 14 and lines 18-21 in `job.scp` to generate a detailed performance report. 

@@ -1,0 +1,1 @@
+This version only needs `g++` and `Makefile`, and can be easily run on your local linux system using the command line without any extra library and script. 
